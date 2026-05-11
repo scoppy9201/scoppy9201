@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Bùi%20Mạnh%20Hưng&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6,12,20,24,30&desc=Fullstack%20Developer%20•%20Laravel%20•%20Spring%20Boot&descAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Bùi%20Mạnh%20Hưng&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6,12,20,24,30&desc=Fullstack%20Developer%20•%20Laravel%20•%20.NET&descAlignY=60&animation=fadeIn" />
 
 </div>
 
@@ -8,9 +8,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&height=70&lines=Building+Enterprise+Systems;Laravel+%7C+Spring+Boot+Developer;Docker+%7C+AWS+%7C+DevOps;Microservices+Architecture;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&height=70&lines=Building+Enterprise+Systems;Laravel+%7C+.NET+Developer;Docker+%7C+AWS+%7C+DevOps;Microservices+Architecture;Always+Learning+New+Technologies" />
 
 </div>
+
 ---
 
 <div align="center">
@@ -31,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,java,spring,react,vue,ts,js,nodejs,mysql,postgresql,docker,aws,linux,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,react,vue,ts,js,nodejs,mysql,postgresql,docker,aws,linux,git,github&theme=dark" />
 
 </div>
 
