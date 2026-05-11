@@ -11,17 +11,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&height=70&lines=Building+Enterprise+Systems;Laravel+%7C+Spring+Boot+Developer;Docker+%7C+AWS+%7C+DevOps;Microservices+Architecture;Always+Learning+New+Technologies" />
 
 </div>
-
----
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=scoppy9201&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scoppy9201&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
 ---
 
 <div align="center">
