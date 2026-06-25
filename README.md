@@ -1,77 +1,88 @@
-<div align="center">
+# Mạnh Hưng
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Bùi%20Mạnh%20Hưng&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6,12,20,24,30&desc=Fullstack%20Developer%20•%20Laravel%20•%20.NET&descAlignY=60&animation=fadeIn" />
+Software Architect
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&height=70&lines=Building+Enterprise+Systems;Laravel+%7C+.NET+Developer;Docker+%7C+AWS+%7C+DevOps;Microservices+Architecture;Always+Learning+New+Technologies" />
-
-</div>
+Building SaaS platforms, CRM systems, and AI-powered business solutions.
 
 ---
 
-<div align="center">
+## What I'm Building
 
-<img src="https://streak-stats.demolab.com?user=scoppy9201&theme=transparent&hide_border=true" />
+### Ommicon CRM
 
-</div>
+Multi-tenant CRM platform for modern businesses.
 
----
+Focus areas:
 
-<div align="center">
+* Customer Management
+* Sales Operations
+* Marketing Automation
+* Business Workflows
+* SaaS Infrastructure
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=scoppy9201&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" />
+### Voxta AI Call Center
 
-</div>
+AI-powered call center platform designed to automate customer interactions and improve operational efficiency.
 
----
+Key capabilities:
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,react,vue,ts,js,nodejs,mysql,postgresql,docker,aws,linux,git,github&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=scoppy9201&theme=onestar&no-frame=true&margin-w=15&margin-h=15" />
-
-</div>
+* Voice AI Agents
+* Call Intelligence
+* CRM Integration
+* Automated Lead Qualification
+* Conversation Analytics
 
 ---
 
-<div align="center">
+## Engineering Principles
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
+* Simplicity over complexity
+* Scalability by design
+* Business-first architecture
+* Automation wherever possible
+* Long-term maintainability
 
 ---
 
-<div align="center">
+## Technology
 
-<img src="https://komarev.com/ghpvc/?username=scoppy9201&style=for-the-badge&color=58A6FF" />
+**Backend**
 
-</div>
+ASP.NET Core • Laravel • Node.js
+
+**Frontend**
+
+React • Vue.js • TypeScript
+
+**Data**
+
+PostgreSQL • MySQL • Redis
+
+**Infrastructure**
+
+Docker • AWS • Linux • Nginx
+
+**Practices**
+
+Microservices • CI/CD • DevOps • Cloud Architecture
 
 ---
 
-<div align="center">
+## Current Focus
 
-### Enterprise Systems • Cloud Infrastructure • Software Architecture
+* Building enterprise-grade SaaS products
+* AI integration for business systems
+* Multi-tenant architecture
+* Scalable cloud infrastructure
 
-</div>
+---
+
+## GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=scoppy9201&show_icons=true&hide_border=true&include_all_commits=true" />
+</p>
+
+---
+
+> Great software is built by solving business problems, not by adding more features.
