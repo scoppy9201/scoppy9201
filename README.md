@@ -1,18 +1,18 @@
-# Mạnh Hưng
+# 👋 Hi, I'm Mạnh Hưng
 
-Software Architect
+## Software Architect
 
 Building SaaS platforms, CRM systems, and AI-powered business solutions.
 
 ---
 
-## What I'm Building
+# 🚀 What I'm Building
 
-### Ommicon CRM
+## Ommicon CRM
 
 Multi-tenant CRM platform for modern businesses.
 
-Focus areas:
+**Focus Areas**
 
 * Customer Management
 * Sales Operations
@@ -20,11 +20,13 @@ Focus areas:
 * Business Workflows
 * SaaS Infrastructure
 
-### Voxta AI Call Center
+---
+
+## Voxta AI Call Center
 
 AI-powered call center platform designed to automate customer interactions and improve operational efficiency.
 
-Key capabilities:
+**Key Capabilities**
 
 * Voice AI Agents
 * Call Intelligence
@@ -34,7 +36,7 @@ Key capabilities:
 
 ---
 
-## Engineering Principles
+# 🧠 Engineering Principles
 
 * Simplicity over complexity
 * Scalability by design
@@ -44,31 +46,59 @@ Key capabilities:
 
 ---
 
-## Technology
+# 🚀 Languages & Tools
 
-**Backend**
+### 🎨 Frontend Technologies
 
-ASP.NET Core • Laravel • Node.js
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind" />
+</p>
 
-**Frontend**
+### ⚡ JavaScript Frameworks & Libraries
 
-React • Vue.js • TypeScript
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,nextjs,vite" />
+</p>
 
-**Data**
+### 🛠 Backend Technologies
 
-PostgreSQL • MySQL • Redis
+<p align="left">
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,php,laravel,symfony" />
+</p>
 
-**Infrastructure**
+### 🗄 Database & Storage
 
-Docker • AWS • Linux • Nginx
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" />
+</p>
 
-**Practices**
+### ☁ Infrastructure & DevOps
 
-Microservices • CI/CD • DevOps • Cloud Architecture
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,githubactions,git" />
+</p>
+
+### 🤖 AI & Automation
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+### 🔗 Blockchain & Web3
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=solidity,ethereum,ipfs,web3js" />
+</p>
+
+### 🧰 Development Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,rider,postman,github,git,bash" />
+</p>
 
 ---
 
-## Current Focus
+# 🎯 Current Focus
 
 * Building enterprise-grade SaaS products
 * AI integration for business systems
@@ -77,12 +107,18 @@ Microservices • CI/CD • DevOps • Cloud Architecture
 
 ---
 
-## GitHub
+# 📊 GitHub Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=scoppy9201&show_icons=true&hide_border=true&include_all_commits=true" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=scoppy9201&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=scoppy9201&hide_border=true&theme=transparent" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scoppy9201&layout=compact&hide_border=true&theme=transparent"/>
 </p>
 
 ---
 
-> Great software is built by solving business problems, not by adding more features.
+> **Great software is built by solving business problems, not by adding more features.**
